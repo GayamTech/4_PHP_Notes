@@ -6,7 +6,7 @@
 <?php
 
 
-echo "This is an example of how to use single & multi-line comments <br>";
+echo "This is an example of how to use single & multi-line comments <br><br>";
 
 
 

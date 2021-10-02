@@ -3,6 +3,9 @@
 <body>
 
 <?php
+
+echo "This is an example of how to use a constant <br><br>";
+
 // case-insensitive constant name
 define("GREETING", "Welcome to W3Schools.com!", true);
 echo greeting;
