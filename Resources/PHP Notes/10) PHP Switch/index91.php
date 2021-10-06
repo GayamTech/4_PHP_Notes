@@ -1,5 +1,3 @@
-
-Result Size: 419 x 556
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,7 +23,8 @@ switch ($favcolor) {
 </body>
 </html>
 ​
-Your favorite color is red!
+
+
 
 <!-- -->
 <!--
